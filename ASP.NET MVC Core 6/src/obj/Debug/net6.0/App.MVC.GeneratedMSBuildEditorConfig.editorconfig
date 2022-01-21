@@ -8,89 +8,89 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = App.MVC
 build_property.RootNamespace = App.MVC
-build_property.ProjectDir = C:\Code\GitHub\ASP.NET-Core-Project-dotnet-6\ASP.NET MVC Core 6\src\
+build_property.ProjectDir = c:\Code\GitHub\ASP.NET-Core-Project-dotnet-6\ASP.NET MVC Core 6\src\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Code\GitHub\ASP.NET-Core-Project-dotnet-6\ASP.NET MVC Core 6\src
+build_property.MSBuildProjectDirectory = c:\Code\GitHub\ASP.NET-Core-Project-dotnet-6\ASP.NET MVC Core 6\src
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Areas/Identity/Pages/_ViewStart.cshtml]
+[c:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Fornecedores/Create.cshtml]
+[c:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Fornecedores/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Fornecedores/Delete.cshtml]
+[c:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Fornecedores/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Fornecedores/Details.cshtml]
+[c:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Fornecedores/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Fornecedores/Edit.cshtml]
+[c:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Fornecedores/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Fornecedores/Index.cshtml]
+[c:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Fornecedores/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Fornecedores/_Endereco.cshtml]
+[c:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Fornecedores/_Endereco.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXF9FbmRlcmVjby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Home/Index.cshtml]
+[c:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Home/Privacy.cshtml]
+[c:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Produtos/Create.cshtml]
+[c:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Produtos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Produtos/Delete.cshtml]
+[c:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Produtos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Produtos/Details.cshtml]
+[c:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Produtos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Produtos/Edit.cshtml]
+[c:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Produtos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Produtos/Index.cshtml]
+[c:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Produtos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Shared/Error.cshtml]
+[c:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Shared/_LoginPartial.cshtml]
+[c:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/_ViewImports.cshtml]
+[c:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/_ViewStart.cshtml]
+[c:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Shared/_Layout.cshtml]
+[c:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-qkjd0vdwt9
