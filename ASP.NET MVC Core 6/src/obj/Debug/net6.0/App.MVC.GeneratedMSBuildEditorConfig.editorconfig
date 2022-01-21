@@ -19,6 +19,30 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Fornecedores/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Fornecedores/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Fornecedores/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Fornecedores/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Fornecedores/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Fornecedores/_Endereco.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXF9FbmRlcmVjby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Code/GitHub/ASP.NET-Core-Project-dotnet-6/ASP.NET MVC Core 6/src/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

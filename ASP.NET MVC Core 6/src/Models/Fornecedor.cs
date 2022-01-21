@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace src.Models
+namespace App.MVC.Models
 {
     public class Fornecedor : Entity
     {

@@ -1,4 +1,4 @@
-namespace src.Models
+namespace App.MVC.Models
 {
     public abstract class Entity
     {
