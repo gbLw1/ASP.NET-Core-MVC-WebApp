@@ -1,6 +1,6 @@
-﻿# ASP.NET Core Project in .NET 6
+﻿# Projeto Básico ASP.NET Core .NET 6
 
-## Uma simples aplicação Web ASP.NET Core utilizando a versão [dotnet](https://pt.wikipedia.org/wiki/.NET) 6.0.101
+## .NET SDK Version : [net6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
 ## Funcionalidades: [CRUD](https://pt.wikipedia.org/wiki/CRUD) de Produtos & Fornecedores
 
