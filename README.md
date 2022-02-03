@@ -38,3 +38,9 @@
 - [x] Microsoft.EntityFrameworkCore.Sqlite
 - [x] Microsoft.EntityFrameworkCore.Tools
 - [x] Microsoft.VisualStudio.Web.CodeGeneration.Design
+
+---
+
+  Plataforma de aprendizagem : [desenvolvedor.io](https://desenvolvedor.io/cursos)  
+  Curso : [Dominando o ASP.NET MVC Core](https://desenvolvedor.io/curso-online-dominando-o-asp-net-mvc-core)  
+  Instrutor : [Eduardo Pires](https://desenvolvedor.io/instrutor/eduardo-pires)
