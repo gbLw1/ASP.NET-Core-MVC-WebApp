@@ -1,16 +1,17 @@
 ﻿# Projeto Básico ASP.NET Core .NET 6
 
-## .NET SDK Version: [net6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
+## Características do projeto
+  .NET SDK Version: [net6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
-## Funcionalidades: [CRUD](https://pt.wikipedia.org/wiki/CRUD) de Produtos & Fornecedores
+  Funcionalidades: [CRUD](https://pt.wikipedia.org/wiki/CRUD) de Produtos & Fornecedores
 
-## Estilo arquitetural: [Client-Server](https://pt.wikipedia.org/wiki/Modelo_cliente%E2%80%93servidor), [Monolítica](https://pt.wikipedia.org/wiki/Aplica%C3%A7%C3%A3o_monol%C3%ADtica)
+  Estilo arquitetural: [Client-Server](https://pt.wikipedia.org/wiki/Modelo_cliente%E2%80%93servidor), [Monolítica](https://pt.wikipedia.org/wiki/Aplica%C3%A7%C3%A3o_monol%C3%ADtica)
 
-## Padrão arquitetural utilizado: [MVC](https://pt.wikipedia.org/wiki/MVC)
+  Padrão arquitetural utilizado: [MVC](https://pt.wikipedia.org/wiki/MVC)
 
-## Segurança: [ASP.NET Identity](https://docs.microsoft.com/en-US/aspnet/identity/overview/getting-started/introduction-to-aspnet-identity)
+  Segurança: [ASP.NET Identity](https://docs.microsoft.com/en-US/aspnet/identity/overview/getting-started/introduction-to-aspnet-identity)
 
-## ORM: [EntityFramework Core](https://pt.wikipedia.org/wiki/Entity_Framework)
+  ORM: [EntityFramework Core](https://pt.wikipedia.org/wiki/Entity_Framework)
 
 ---
 
