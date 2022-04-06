@@ -1,5 +1,5 @@
-﻿# Projeto Básico ASP.NET Core .NET 6
-
+﻿# ASP.NET Core MVC
+  >**Aviso:** Esse projeto é a versão básica, veja o projeto completo [aqui](https://github.com/gbLw1/ASP.NET-Core-Multitier-WebApp)
 ## Características do projeto
   .NET SDK Version: [net6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 
